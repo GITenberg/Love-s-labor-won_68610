@@ -1,0 +1,37 @@
+_repo: Love-s-labor-won_68610
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Southworth, Emma D. E. N.
+    - Southworth, E. D. E. N.
+    - Southworth, Mrs. E. D. E. N.
+    - Nevitt, Dorothy Emma Eliza
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: ''
+gutenberg_issued: '2022-07-25'
+identifiers:
+  gutenberg: '68610'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:646739
+pgterms:marc905: 20210416102805southworth
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Elopement -- Fiction'
+- GITenberg
+title: Love's labor won
+url: http://www.gutenberg.org/ebooks/68610
